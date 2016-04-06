@@ -10,6 +10,7 @@
 <div id="logo">
 <h1>Image Processing Library</h1>
 </div>
+<div id ="phpContent">
 
 <!--Edits end here-->
 
@@ -20,4 +21,5 @@ unset($_SESSION['username']);
 die("you have successfully logged out.");
 
 ?>
+</div>
 </html>

@@ -13,6 +13,8 @@
 <div id="links"></div>
 </div>
 <div id="content">
+<div id = "phpContent">
+
 <!--end here-->
 
 <head><title>Login</title></head>
@@ -38,6 +40,7 @@ New password: <input type="password" name="code"><br>
 
 </form>
 </table>
+</div>
 </div>
 
 

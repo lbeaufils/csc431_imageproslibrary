@@ -16,6 +16,7 @@
 <body>
 
 
+<div id ="phpContent">
 
 <?php
 $code=$_POST['code'];
@@ -70,6 +71,6 @@ while ($row = mysql_fetch_array($names)) {
 die("register successfully");
 ?>
 
-
+</div>
 </body>
 </html>
